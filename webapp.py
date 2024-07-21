@@ -15,7 +15,7 @@ from search_section import search_section
 from tracker_section import tracker_section
 
 def main():
-    st.title("Orvosi Röntgen Adatbázis")
+    st.title("Medical X-ray Database")
     upload_section()
     search_section()
     tracker_section()
